@@ -1,0 +1,1843 @@
+{
+    "component_instances": [
+        {
+            "attributes": {
+                "refdes": "U1"
+            }, 
+            "footprint_attributes": [
+                {
+                    "flip": false, 
+                    "layer": "top component", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }
+            ], 
+            "footprint_index": 0, 
+            "footprint_pos": {
+                "flip": false, 
+                "realm": "", 
+                "rotation": 0.0, 
+                "side": "top", 
+                "x": 85000000, 
+                "y": 245000000
+            }, 
+            "gen_obj_attributes": [
+                {
+                    "attributes": {
+                        "type": "center cross", 
+                        "width": "508000"
+                    }, 
+                    "flip": false, 
+                    "layer": "top component", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_net": "", 
+                        "layer_attributes": "{\"hole\":{\"shape\":\"circle\",\"height\":0,\"width\":3200000,\"tolerance_positive\":null,\"tolerance_negative\":null,\"rotation\":0}}", 
+                        "non_plated": "1", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": -36250000, 
+                    "y": -18500000
+                }, 
+                {
+                    "attributes": {
+                        "antipad_expansion": "0", 
+                        "attached_net": "", 
+                        "layer_attributes": "{\"hole\":{\"shape\":\"circle\",\"height\":0,\"width\":3200000,\"tolerance_positive\":null,\"tolerance_negative\":null,\"rotation\":0}}", 
+                        "non_plated": "1", 
+                        "thermal_spoke_width": "-1", 
+                        "type": "plated through hole"
+                    }, 
+                    "flip": false, 
+                    "layer": "top copper", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": 36250000, 
+                    "y": -18500000
+                }
+            ], 
+            "instance_id": "fb188a6f0d1f7dbf", 
+            "library_id": "97f23ab54633b7cb", 
+            "symbol_attributes": [
+                {
+                    "annotations": [
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "WJ2-134", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "realm": "", 
+                            "rotation": 0.0, 
+                            "value": "WJ2-134", 
+                            "visible": "true", 
+                            "x": -10, 
+                            "y": -40
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "Writing Board Spring Clip", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "realm": "", 
+                            "rotation": 0.0, 
+                            "value": "Writing Board Spring Clip", 
+                            "visible": "true", 
+                            "x": -50, 
+                            "y": -50
+                        }, 
+                        {
+                            "flip": false, 
+                            "label": {
+                                "align": "left", 
+                                "baseline": "alphabetic", 
+                                "flip": false, 
+                                "font_family": "sans-serif", 
+                                "font_size": 10, 
+                                "rotation": 0.0, 
+                                "styles": {}, 
+                                "text": "U1", 
+                                "type": "label", 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "realm": "", 
+                            "rotation": 0.0, 
+                            "value": "U1", 
+                            "visible": "true", 
+                            "x": 0, 
+                            "y": 10
+                        }
+                    ], 
+                    "flip": "false", 
+                    "hidden": "false", 
+                    "realm": "", 
+                    "rotation": 0.0, 
+                    "x": -330, 
+                    "y": 130
+                }
+            ], 
+            "symbol_index": 0
+        }
+    ], 
+    "components": {
+        "57226182e92f4941": {
+            "attributes": {
+                "_approved_alternate_part_number": "", 
+                "_category": "IC", 
+                "_datasheet": "", 
+                "_digikey_description": "", 
+                "_digikey_part_number": "", 
+                "_is_preset_symbol_0_0": "no", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "Upverter", 
+                "_mouser_part_number": "", 
+                "_octopart_part_number": "", 
+                "_package": "", 
+                "_part_number": "bbq1475fz/p", 
+                "_prefix": "U", 
+                "_rohs": "Unknown", 
+                "_temperature_range_high": "", 
+                "_temperature_range_low": "", 
+                "_verified_attributes": "false", 
+                "_verified_geometry": "false", 
+                "_verified_pad_assignment": "false", 
+                "_verified_pin_names": "false"
+            }, 
+            "connections": {}, 
+            "footprints": [], 
+            "name": "No description", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "(placeholder symbol)", 
+                                    "x": 10, 
+                                    "y": 11
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": 10, 
+                                    "y": 88
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_manufacturer}}", 
+                                    "x": 9, 
+                                    "y": 73
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 110, 
+                                    "is_centered": false, 
+                                    "line_width": 2, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 110, 
+                                    "x": 0, 
+                                    "y": 110
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ]
+        }, 
+        "97f23ab54633b7cb": {
+            "attributes": {
+                "_category": "IC", 
+                "_device_class_L1": "unset", 
+                "_device_class_L2": "unset", 
+                "_device_class_L3": "unset", 
+                "_is_preset_symbol_0_0": "no", 
+                "_lead_free": "Unknown", 
+                "_manufacturer": "ZSFANGJUN", 
+                "_part_number": "WJ2-134", 
+                "_prefix": "U", 
+                "_rohs": "Unknown"
+            }, 
+            "connections": {}, 
+            "footprints": [
+                {
+                    "bodies": [
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top component", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0.0, 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 30000000, 
+                                    "is_centered": true, 
+                                    "line_width": 250000, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 100000000, 
+                                    "x": 0, 
+                                    "y": -14875000
+                                }
+                            ]
+                        }, 
+                        {
+                            "connection_indexes": [], 
+                            "flip": false, 
+                            "layer": "top assembly", 
+                            "moveable": false, 
+                            "pin_num": null, 
+                            "removeable": false, 
+                            "rotation": 0, 
+                            "shapes": []
+                        }
+                    ], 
+                    "gen_objs": [
+                        {
+                            "attributes": {
+                                "type": "center cross", 
+                                "width": "508000"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top component", 
+                            "rotation": 0.0, 
+                            "x": 0, 
+                            "y": 0
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_net": "", 
+                                "layer_attributes": "{\"hole\": {\"height\": 0, \"width\": 3200000, \"shape\": \"circle\", \"tolerance_positive\": null, \"tolerance_negative\": null, \"rotation\": 0}}", 
+                                "non_plated": "1", 
+                                "thermal_spoke_width": "-1", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": -36250000, 
+                            "y": -18500000
+                        }, 
+                        {
+                            "attributes": {
+                                "antipad_expansion": "0", 
+                                "attached_net": "", 
+                                "layer_attributes": "{\"hole\": {\"height\": 0, \"width\": 3200000, \"shape\": \"circle\", \"tolerance_positive\": null, \"tolerance_negative\": null, \"rotation\": 0}}", 
+                                "non_plated": "1", 
+                                "thermal_spoke_width": "-1", 
+                                "type": "plated through hole"
+                            }, 
+                            "connection_indexes": null, 
+                            "flip": false, 
+                            "layer": "top copper", 
+                            "rotation": 0.0, 
+                            "x": 36250000, 
+                            "y": -18500000
+                        }
+                    ], 
+                    "threeds": []
+                }
+            ], 
+            "name": "Writing Board Spring Clip", 
+            "symbols": [
+                {
+                    "bodies": [
+                        {
+                            "action_regions": [], 
+                            "annotations": [
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{refdes}}", 
+                                    "x": 0, 
+                                    "y": 10
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_part_number}}", 
+                                    "x": -10, 
+                                    "y": -40
+                                }, 
+                                {
+                                    "align": "left", 
+                                    "baseline": "alphabetic", 
+                                    "flip": false, 
+                                    "font_family": "sans-serif", 
+                                    "font_size": 10, 
+                                    "rotation": 0.0, 
+                                    "text": "{{_name}}", 
+                                    "x": -50, 
+                                    "y": -50
+                                }
+                            ], 
+                            "shapes": [
+                                {
+                                    "flip": false, 
+                                    "height": 30, 
+                                    "is_centered": false, 
+                                    "line_width": 1, 
+                                    "rotation": 0.0, 
+                                    "styles": {}, 
+                                    "type": "rectangle", 
+                                    "width": 20, 
+                                    "x": 0, 
+                                    "y": 0
+                                }
+                            ], 
+                            "styles": {}
+                        }
+                    ]
+                }
+            ]
+        }
+    }, 
+    "design_attributes": {
+        "annotations": [], 
+        "attributes": {
+            "_integrated circuit_counter": "2"
+        }, 
+        "metadata": {
+            "attached_urls": [], 
+            "description": "", 
+            "design_id": "538fdf41be193887", 
+            "license": "cc-by-sa4", 
+            "name": "Clipboard - A5", 
+            "owner": "Trebuchetindustries", 
+            "slug": "Clipboard---A5", 
+            "updated_timestamp": 1593794562
+        }
+    }, 
+    "extra_pcb_data_blobs": [], 
+    "extra_schematic_data_blobs": [], 
+    "layer_options": [
+        {
+            "ident": "hole", 
+            "is_copper": false, 
+            "name": "hole", 
+            "realm": ""
+        }, 
+        {
+            "ident": "top silkscreen", 
+            "is_copper": false, 
+            "name": "top silkscreen", 
+            "realm": ""
+        }, 
+        {
+            "ident": "top solder mask", 
+            "is_copper": false, 
+            "name": "top solder mask", 
+            "realm": ""
+        }, 
+        {
+            "ident": "top paste", 
+            "is_copper": false, 
+            "name": "top paste", 
+            "realm": ""
+        }, 
+        {
+            "ident": "top copper", 
+            "is_copper": true, 
+            "name": "top copper", 
+            "realm": ""
+        }, 
+        {
+            "ident": "bottom copper", 
+            "is_copper": true, 
+            "name": "bottom copper", 
+            "realm": ""
+        }, 
+        {
+            "ident": "bottom paste", 
+            "is_copper": false, 
+            "name": "bottom paste", 
+            "realm": ""
+        }, 
+        {
+            "ident": "bottom solder mask", 
+            "is_copper": false, 
+            "name": "bottom solder mask", 
+            "realm": ""
+        }, 
+        {
+            "ident": "bottom silkscreen", 
+            "is_copper": false, 
+            "name": "bottom silkscreen", 
+            "realm": ""
+        }, 
+        {
+            "ident": "mechanical details", 
+            "is_copper": false, 
+            "name": "mechanical details", 
+            "realm": ""
+        }
+    ], 
+    "layout_bodies": [], 
+    "layout_body_attributes": [], 
+    "layout_objects": [
+        {
+            "attributes": {
+                "antipad_expansion": "0", 
+                "attached_net": "", 
+                "layer_attributes": "{\"hole\":{\"shape\":\"rounded rectangle\",\"height\":4000000,\"width\":15000000,\"tolerance_positive\":null,\"tolerance_negative\":null,\"rotation\":0,\"corner_radius\":2000000}}", 
+                "non_plated": "1", 
+                "thermal_spoke_width": "-1", 
+                "type": "plated through hole"
+            }, 
+            "connection_indexes": null, 
+            "flip": false, 
+            "layer": "hole", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "x": 150000000, 
+            "y": 243750000
+        }, 
+        {
+            "attributes": {
+                "antipad_expansion": "0", 
+                "attached_net": "", 
+                "layer_attributes": "{\"hole\":{\"shape\":\"rounded rectangle\",\"height\":4000000,\"width\":15000000,\"tolerance_positive\":null,\"tolerance_negative\":null,\"rotation\":0,\"corner_radius\":2000000}}", 
+                "non_plated": "1", 
+                "thermal_spoke_width": "-1", 
+                "type": "plated through hole"
+            }, 
+            "connection_indexes": null, 
+            "flip": false, 
+            "layer": "hole", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "x": 20000000, 
+            "y": 243750000
+        }
+    ], 
+    "module_instances": [], 
+    "modules": {}, 
+    "named_regions": [], 
+    "net_labels": [], 
+    "nets": [], 
+    "paths": [
+        {
+            "attributes": {}, 
+            "is_closed": true, 
+            "layer": "mechanical details", 
+            "points": [
+                {
+                    "x": 5000000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 165000000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 170000000, 
+                    "y": 5000000
+                }, 
+                {
+                    "x": 168535533, 
+                    "y": 1464466
+                }, 
+                {
+                    "x": 170000000, 
+                    "y": 245000000
+                }, 
+                {
+                    "x": 165000000, 
+                    "y": 250000000
+                }, 
+                {
+                    "x": 168535533, 
+                    "y": 248535533
+                }, 
+                {
+                    "x": 5000000, 
+                    "y": 250000000
+                }, 
+                {
+                    "x": 0, 
+                    "y": 245000000
+                }, 
+                {
+                    "x": 1464466, 
+                    "y": 248535533
+                }, 
+                {
+                    "x": 0, 
+                    "y": 5000000
+                }, 
+                {
+                    "x": 5000000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 1464466, 
+                    "y": 1464466
+                }
+            ], 
+            "realm": "", 
+            "shape_types": [
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment"
+            ], 
+            "width": 381000.0
+        }, 
+        {
+            "attributes": {}, 
+            "is_closed": true, 
+            "layer": "top silkscreen", 
+            "points": [
+                {
+                    "x": 11000000, 
+                    "y": 29000000
+                }, 
+                {
+                    "x": 159000000, 
+                    "y": 29000000
+                }, 
+                {
+                    "x": 159000000, 
+                    "y": 240000000
+                }, 
+                {
+                    "x": 11000000, 
+                    "y": 240000000
+                }
+            ], 
+            "realm": "", 
+            "shape_types": [
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment"
+            ], 
+            "width": 500000.0
+        }, 
+        {
+            "attributes": {}, 
+            "is_closed": true, 
+            "layer": "top silkscreen", 
+            "points": [
+                {
+                    "x": 7500000, 
+                    "y": 2500000
+                }, 
+                {
+                    "x": 162500000, 
+                    "y": 2500000
+                }, 
+                {
+                    "x": 167500000, 
+                    "y": 7500000
+                }, 
+                {
+                    "x": 166035533, 
+                    "y": 3964466
+                }, 
+                {
+                    "x": 167500000, 
+                    "y": 242500000
+                }, 
+                {
+                    "x": 162500000, 
+                    "y": 247500000
+                }, 
+                {
+                    "x": 166035533, 
+                    "y": 246035533
+                }, 
+                {
+                    "x": 7500000, 
+                    "y": 247500000
+                }, 
+                {
+                    "x": 2500000, 
+                    "y": 242500000
+                }, 
+                {
+                    "x": 3964466, 
+                    "y": 246035533
+                }, 
+                {
+                    "x": 2500000, 
+                    "y": 7500000
+                }, 
+                {
+                    "x": 7500000, 
+                    "y": 2500000
+                }, 
+                {
+                    "x": 3964466, 
+                    "y": 3964466
+                }
+            ], 
+            "realm": "", 
+            "shape_types": [
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment", 
+                "arc", 
+                "rounded_segment"
+            ], 
+            "width": 500000.0
+        }
+    ], 
+    "pcb_text": [
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 25500000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "PCB CLIP", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "value": "PCB CLIP", 
+            "visible": "true", 
+            "x": 121650000, 
+            "y": 61750000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 33000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "BOARD", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "value": "BOARD", 
+            "visible": "true", 
+            "x": 122250000, 
+            "y": 30750000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 100000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "A5", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "value": "A5", 
+            "visible": "true", 
+            "x": 22500000, 
+            "y": 40000000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 50000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "STUPID", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 1.5, 
+            "value": "STUPID", 
+            "visible": "true", 
+            "x": 128750000, 
+            "y": 23000000
+        }, 
+        {
+            "flip": false, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 1270000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "JLCJLCJLCJLC", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "top silkscreen", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "value": "JLCJLCJLCJLC", 
+            "visible": "true", 
+            "x": 108000000, 
+            "y": 226250000
+        }, 
+        {
+            "flip": true, 
+            "label": {
+                "align": "left", 
+                "baseline": "alphabetic", 
+                "flip": false, 
+                "font_family": "sans-serif", 
+                "font_size": 95000000, 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "text": "A5", 
+                "type": "label", 
+                "x": 0, 
+                "y": 0
+            }, 
+            "layer": "bottom silkscreen", 
+            "realm": "", 
+            "rotation": 0.0, 
+            "value": "A5", 
+            "visible": "true", 
+            "x": 122500000, 
+            "y": 132000000
+        }
+    ], 
+    "pins": [], 
+    "pours": [
+        {
+            "attached_net": "GND", 
+            "attributes": {
+                "clearance_length": "0.2032mm", 
+                "disable_padstack_thermals": "false", 
+                "disable_through_hole_thermals": "false", 
+                "fill_mode": "solid", 
+                "hatch_grid_size": "0.508mm", 
+                "hatch_track_width": "0.254mm", 
+                "hatch_type": "diagonal_grid", 
+                "island_removal": "false", 
+                "sliver_size": "0.127mm", 
+                "unpour": "true"
+            }, 
+            "layer": "top copper", 
+            "order": 0, 
+            "points": [
+                {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "x": 170000000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 170000000, 
+                    "y": 250000000
+                }, 
+                {
+                    "x": 0, 
+                    "y": 250000000
+                }
+            ], 
+            "shape_types": [
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment"
+            ]
+        }, 
+        {
+            "attached_net": "GND", 
+            "attributes": {
+                "clearance_length": "0.2032mm", 
+                "disable_padstack_thermals": "false", 
+                "disable_through_hole_thermals": "false", 
+                "fill_mode": "solid", 
+                "hatch_grid_size": "0.508mm", 
+                "hatch_track_width": "0.254mm", 
+                "hatch_type": "diagonal_grid", 
+                "island_removal": "false", 
+                "sliver_size": "0.127mm", 
+                "unpour": "false"
+            }, 
+            "layer": "bottom copper", 
+            "order": 0, 
+            "points": [
+                {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                {
+                    "x": 170000000, 
+                    "y": 0
+                }, 
+                {
+                    "x": 170000000, 
+                    "y": 250000000
+                }, 
+                {
+                    "x": 0, 
+                    "y": 250000000
+                }
+            ], 
+            "polygons": {
+                "flip": false, 
+                "polygons": [
+                    {
+                        "flip": false, 
+                        "holes": [
+                            {
+                                "points": [
+                                    {
+                                        "x": 155845722, 
+                                        "y": 245932804
+                                    }, 
+                                    {
+                                        "x": 156182932, 
+                                        "y": 245851847
+                                    }, 
+                                    {
+                                        "x": 156503325, 
+                                        "y": 245719136
+                                    }, 
+                                    {
+                                        "x": 156799013, 
+                                        "y": 245537938
+                                    }, 
+                                    {
+                                        "x": 157062715, 
+                                        "y": 245312715
+                                    }, 
+                                    {
+                                        "x": 157287938, 
+                                        "y": 245049013
+                                    }, 
+                                    {
+                                        "x": 157469136, 
+                                        "y": 244753325
+                                    }, 
+                                    {
+                                        "x": 157601847, 
+                                        "y": 244432932
+                                    }, 
+                                    {
+                                        "x": 157682804, 
+                                        "y": 244095722
+                                    }, 
+                                    {
+                                        "x": 157710013, 
+                                        "y": 243750000
+                                    }, 
+                                    {
+                                        "x": 157682804, 
+                                        "y": 243404278
+                                    }, 
+                                    {
+                                        "x": 157601847, 
+                                        "y": 243067068
+                                    }, 
+                                    {
+                                        "x": 157469136, 
+                                        "y": 242746675
+                                    }, 
+                                    {
+                                        "x": 157287938, 
+                                        "y": 242450987
+                                    }, 
+                                    {
+                                        "x": 157062715, 
+                                        "y": 242187285
+                                    }, 
+                                    {
+                                        "x": 156799013, 
+                                        "y": 241962062
+                                    }, 
+                                    {
+                                        "x": 156503325, 
+                                        "y": 241780864
+                                    }, 
+                                    {
+                                        "x": 156182932, 
+                                        "y": 241648153
+                                    }, 
+                                    {
+                                        "x": 155845722, 
+                                        "y": 241567196
+                                    }, 
+                                    {
+                                        "x": 155500000, 
+                                        "y": 241539987
+                                    }, 
+                                    {
+                                        "x": 144500000, 
+                                        "y": 241539987
+                                    }, 
+                                    {
+                                        "x": 144154278, 
+                                        "y": 241567196
+                                    }, 
+                                    {
+                                        "x": 143817068, 
+                                        "y": 241648153
+                                    }, 
+                                    {
+                                        "x": 143496675, 
+                                        "y": 241780864
+                                    }, 
+                                    {
+                                        "x": 143200987, 
+                                        "y": 241962062
+                                    }, 
+                                    {
+                                        "x": 142937285, 
+                                        "y": 242187285
+                                    }, 
+                                    {
+                                        "x": 142712062, 
+                                        "y": 242450987
+                                    }, 
+                                    {
+                                        "x": 142530864, 
+                                        "y": 242746675
+                                    }, 
+                                    {
+                                        "x": 142398153, 
+                                        "y": 243067068
+                                    }, 
+                                    {
+                                        "x": 142317196, 
+                                        "y": 243404278
+                                    }, 
+                                    {
+                                        "x": 142289987, 
+                                        "y": 243750000
+                                    }, 
+                                    {
+                                        "x": 142317196, 
+                                        "y": 244095722
+                                    }, 
+                                    {
+                                        "x": 142398153, 
+                                        "y": 244432932
+                                    }, 
+                                    {
+                                        "x": 142530864, 
+                                        "y": 244753325
+                                    }, 
+                                    {
+                                        "x": 142712062, 
+                                        "y": 245049013
+                                    }, 
+                                    {
+                                        "x": 142937285, 
+                                        "y": 245312715
+                                    }, 
+                                    {
+                                        "x": 143200987, 
+                                        "y": 245537938
+                                    }, 
+                                    {
+                                        "x": 143496675, 
+                                        "y": 245719136
+                                    }, 
+                                    {
+                                        "x": 143817068, 
+                                        "y": 245851847
+                                    }, 
+                                    {
+                                        "x": 144154278, 
+                                        "y": 245932804
+                                    }, 
+                                    {
+                                        "x": 144500000, 
+                                        "y": 245960013
+                                    }, 
+                                    {
+                                        "x": 155500000, 
+                                        "y": 245960013
+                                    }
+                                ]
+                            }, 
+                            {
+                                "points": [
+                                    {
+                                        "x": 25845722, 
+                                        "y": 245932804
+                                    }, 
+                                    {
+                                        "x": 26182932, 
+                                        "y": 245851847
+                                    }, 
+                                    {
+                                        "x": 26503325, 
+                                        "y": 245719136
+                                    }, 
+                                    {
+                                        "x": 26799013, 
+                                        "y": 245537938
+                                    }, 
+                                    {
+                                        "x": 27062715, 
+                                        "y": 245312715
+                                    }, 
+                                    {
+                                        "x": 27287938, 
+                                        "y": 245049013
+                                    }, 
+                                    {
+                                        "x": 27469136, 
+                                        "y": 244753325
+                                    }, 
+                                    {
+                                        "x": 27601847, 
+                                        "y": 244432932
+                                    }, 
+                                    {
+                                        "x": 27682804, 
+                                        "y": 244095722
+                                    }, 
+                                    {
+                                        "x": 27710013, 
+                                        "y": 243750000
+                                    }, 
+                                    {
+                                        "x": 27682804, 
+                                        "y": 243404278
+                                    }, 
+                                    {
+                                        "x": 27601847, 
+                                        "y": 243067068
+                                    }, 
+                                    {
+                                        "x": 27469136, 
+                                        "y": 242746675
+                                    }, 
+                                    {
+                                        "x": 27287938, 
+                                        "y": 242450987
+                                    }, 
+                                    {
+                                        "x": 27062715, 
+                                        "y": 242187285
+                                    }, 
+                                    {
+                                        "x": 26799013, 
+                                        "y": 241962062
+                                    }, 
+                                    {
+                                        "x": 26503325, 
+                                        "y": 241780864
+                                    }, 
+                                    {
+                                        "x": 26182932, 
+                                        "y": 241648153
+                                    }, 
+                                    {
+                                        "x": 25845722, 
+                                        "y": 241567196
+                                    }, 
+                                    {
+                                        "x": 25500000, 
+                                        "y": 241539987
+                                    }, 
+                                    {
+                                        "x": 14500000, 
+                                        "y": 241539987
+                                    }, 
+                                    {
+                                        "x": 14154278, 
+                                        "y": 241567196
+                                    }, 
+                                    {
+                                        "x": 13817068, 
+                                        "y": 241648153
+                                    }, 
+                                    {
+                                        "x": 13496675, 
+                                        "y": 241780864
+                                    }, 
+                                    {
+                                        "x": 13200987, 
+                                        "y": 241962062
+                                    }, 
+                                    {
+                                        "x": 12937285, 
+                                        "y": 242187285
+                                    }, 
+                                    {
+                                        "x": 12712062, 
+                                        "y": 242450987
+                                    }, 
+                                    {
+                                        "x": 12530864, 
+                                        "y": 242746675
+                                    }, 
+                                    {
+                                        "x": 12398153, 
+                                        "y": 243067068
+                                    }, 
+                                    {
+                                        "x": 12317196, 
+                                        "y": 243404278
+                                    }, 
+                                    {
+                                        "x": 12289987, 
+                                        "y": 243750000
+                                    }, 
+                                    {
+                                        "x": 12317196, 
+                                        "y": 244095722
+                                    }, 
+                                    {
+                                        "x": 12398153, 
+                                        "y": 244432932
+                                    }, 
+                                    {
+                                        "x": 12530864, 
+                                        "y": 244753325
+                                    }, 
+                                    {
+                                        "x": 12712062, 
+                                        "y": 245049013
+                                    }, 
+                                    {
+                                        "x": 12937285, 
+                                        "y": 245312715
+                                    }, 
+                                    {
+                                        "x": 13200987, 
+                                        "y": 245537938
+                                    }, 
+                                    {
+                                        "x": 13496675, 
+                                        "y": 245719136
+                                    }, 
+                                    {
+                                        "x": 13817068, 
+                                        "y": 245851847
+                                    }, 
+                                    {
+                                        "x": 14154278, 
+                                        "y": 245932804
+                                    }, 
+                                    {
+                                        "x": 14500000, 
+                                        "y": 245960013
+                                    }, 
+                                    {
+                                        "x": 25500000, 
+                                        "y": 245960013
+                                    }
+                                ]
+                            }, 
+                            {
+                                "points": [
+                                    {
+                                        "x": 121603489, 
+                                        "y": 228277109
+                                    }, 
+                                    {
+                                        "x": 121943394, 
+                                        "y": 228174000
+                                    }, 
+                                    {
+                                        "x": 122256652, 
+                                        "y": 228006561
+                                    }, 
+                                    {
+                                        "x": 122531224, 
+                                        "y": 227781224
+                                    }, 
+                                    {
+                                        "x": 122756561, 
+                                        "y": 227506652
+                                    }, 
+                                    {
+                                        "x": 122924000, 
+                                        "y": 227193394
+                                    }, 
+                                    {
+                                        "x": 123027109, 
+                                        "y": 226853489
+                                    }, 
+                                    {
+                                        "x": 123061925, 
+                                        "y": 226500000
+                                    }, 
+                                    {
+                                        "x": 123027109, 
+                                        "y": 226146511
+                                    }, 
+                                    {
+                                        "x": 122924000, 
+                                        "y": 225806606
+                                    }, 
+                                    {
+                                        "x": 122756561, 
+                                        "y": 225493348
+                                    }, 
+                                    {
+                                        "x": 122531224, 
+                                        "y": 225218776
+                                    }, 
+                                    {
+                                        "x": 122256652, 
+                                        "y": 224993439
+                                    }, 
+                                    {
+                                        "x": 121943394, 
+                                        "y": 224826000
+                                    }, 
+                                    {
+                                        "x": 121603489, 
+                                        "y": 224722891
+                                    }, 
+                                    {
+                                        "x": 121250000, 
+                                        "y": 224688075
+                                    }, 
+                                    {
+                                        "x": 120896511, 
+                                        "y": 224722891
+                                    }, 
+                                    {
+                                        "x": 120556606, 
+                                        "y": 224826000
+                                    }, 
+                                    {
+                                        "x": 120243348, 
+                                        "y": 224993439
+                                    }, 
+                                    {
+                                        "x": 119968776, 
+                                        "y": 225218776
+                                    }, 
+                                    {
+                                        "x": 119743439, 
+                                        "y": 225493348
+                                    }, 
+                                    {
+                                        "x": 119576000, 
+                                        "y": 225806606
+                                    }, 
+                                    {
+                                        "x": 119472891, 
+                                        "y": 226146511
+                                    }, 
+                                    {
+                                        "x": 119438075, 
+                                        "y": 226500000
+                                    }, 
+                                    {
+                                        "x": 119472891, 
+                                        "y": 226853489
+                                    }, 
+                                    {
+                                        "x": 119576000, 
+                                        "y": 227193394
+                                    }, 
+                                    {
+                                        "x": 119743439, 
+                                        "y": 227506652
+                                    }, 
+                                    {
+                                        "x": 119968776, 
+                                        "y": 227781224
+                                    }, 
+                                    {
+                                        "x": 120243348, 
+                                        "y": 228006561
+                                    }, 
+                                    {
+                                        "x": 120556606, 
+                                        "y": 228174000
+                                    }, 
+                                    {
+                                        "x": 120896511, 
+                                        "y": 228277109
+                                    }, 
+                                    {
+                                        "x": 121250000, 
+                                        "y": 228311925
+                                    }
+                                ]
+                            }, 
+                            {
+                                "points": [
+                                    {
+                                        "x": 49103489, 
+                                        "y": 228277109
+                                    }, 
+                                    {
+                                        "x": 49443394, 
+                                        "y": 228174000
+                                    }, 
+                                    {
+                                        "x": 49756652, 
+                                        "y": 228006561
+                                    }, 
+                                    {
+                                        "x": 50031224, 
+                                        "y": 227781224
+                                    }, 
+                                    {
+                                        "x": 50256561, 
+                                        "y": 227506652
+                                    }, 
+                                    {
+                                        "x": 50424000, 
+                                        "y": 227193394
+                                    }, 
+                                    {
+                                        "x": 50527109, 
+                                        "y": 226853489
+                                    }, 
+                                    {
+                                        "x": 50561925, 
+                                        "y": 226500000
+                                    }, 
+                                    {
+                                        "x": 50527109, 
+                                        "y": 226146511
+                                    }, 
+                                    {
+                                        "x": 50424000, 
+                                        "y": 225806606
+                                    }, 
+                                    {
+                                        "x": 50256561, 
+                                        "y": 225493348
+                                    }, 
+                                    {
+                                        "x": 50031224, 
+                                        "y": 225218776
+                                    }, 
+                                    {
+                                        "x": 49756652, 
+                                        "y": 224993439
+                                    }, 
+                                    {
+                                        "x": 49443394, 
+                                        "y": 224826000
+                                    }, 
+                                    {
+                                        "x": 49103489, 
+                                        "y": 224722891
+                                    }, 
+                                    {
+                                        "x": 48750000, 
+                                        "y": 224688075
+                                    }, 
+                                    {
+                                        "x": 48396511, 
+                                        "y": 224722891
+                                    }, 
+                                    {
+                                        "x": 48056606, 
+                                        "y": 224826000
+                                    }, 
+                                    {
+                                        "x": 47743348, 
+                                        "y": 224993439
+                                    }, 
+                                    {
+                                        "x": 47468776, 
+                                        "y": 225218776
+                                    }, 
+                                    {
+                                        "x": 47243439, 
+                                        "y": 225493348
+                                    }, 
+                                    {
+                                        "x": 47076000, 
+                                        "y": 225806606
+                                    }, 
+                                    {
+                                        "x": 46972891, 
+                                        "y": 226146511
+                                    }, 
+                                    {
+                                        "x": 46938075, 
+                                        "y": 226500000
+                                    }, 
+                                    {
+                                        "x": 46972891, 
+                                        "y": 226853489
+                                    }, 
+                                    {
+                                        "x": 47076000, 
+                                        "y": 227193394
+                                    }, 
+                                    {
+                                        "x": 47243439, 
+                                        "y": 227506652
+                                    }, 
+                                    {
+                                        "x": 47468776, 
+                                        "y": 227781224
+                                    }, 
+                                    {
+                                        "x": 47743348, 
+                                        "y": 228006561
+                                    }, 
+                                    {
+                                        "x": 48056606, 
+                                        "y": 228174000
+                                    }, 
+                                    {
+                                        "x": 48396511, 
+                                        "y": 228277109
+                                    }, 
+                                    {
+                                        "x": 48750000, 
+                                        "y": 228311925
+                                    }
+                                ]
+                            }
+                        ], 
+                        "line_width": 0, 
+                        "outline": {
+                            "points": [
+                                {
+                                    "x": 165000634, 
+                                    "y": 249598713
+                                }, 
+                                {
+                                    "x": 165000000, 
+                                    "y": 249598587
+                                }, 
+                                {
+                                    "x": 5000000, 
+                                    "y": 249598587
+                                }, 
+                                {
+                                    "x": 4999366, 
+                                    "y": 249598713
+                                }, 
+                                {
+                                    "x": 4280595, 
+                                    "y": 249542145
+                                }, 
+                                {
+                                    "x": 3600897, 
+                                    "y": 249378964
+                                }, 
+                                {
+                                    "x": 3549670, 
+                                    "y": 249361575
+                                }, 
+                                {
+                                    "x": 2941440, 
+                                    "y": 249109638
+                                }, 
+                                {
+                                    "x": 2892923, 
+                                    "y": 249085711
+                                }, 
+                                {
+                                    "x": 2296912, 
+                                    "y": 248720475
+                                }, 
+                                {
+                                    "x": 1748183, 
+                                    "y": 248251817
+                                }, 
+                                {
+                                    "x": 1279525, 
+                                    "y": 247703088
+                                }, 
+                                {
+                                    "x": 914289, 
+                                    "y": 247107077
+                                }, 
+                                {
+                                    "x": 890362, 
+                                    "y": 247058560
+                                }, 
+                                {
+                                    "x": 638425, 
+                                    "y": 246450330
+                                }, 
+                                {
+                                    "x": 621036, 
+                                    "y": 246399103
+                                }, 
+                                {
+                                    "x": 457855, 
+                                    "y": 245719405
+                                }, 
+                                {
+                                    "x": 401287, 
+                                    "y": 245000634
+                                }, 
+                                {
+                                    "x": 401413, 
+                                    "y": 245000000
+                                }, 
+                                {
+                                    "x": 401413, 
+                                    "y": 5000000
+                                }, 
+                                {
+                                    "x": 401287, 
+                                    "y": 4999366
+                                }, 
+                                {
+                                    "x": 457855, 
+                                    "y": 4280595
+                                }, 
+                                {
+                                    "x": 621036, 
+                                    "y": 3600897
+                                }, 
+                                {
+                                    "x": 638425, 
+                                    "y": 3549670
+                                }, 
+                                {
+                                    "x": 890362, 
+                                    "y": 2941440
+                                }, 
+                                {
+                                    "x": 914289, 
+                                    "y": 2892923
+                                }, 
+                                {
+                                    "x": 1279525, 
+                                    "y": 2296912
+                                }, 
+                                {
+                                    "x": 1748183, 
+                                    "y": 1748183
+                                }, 
+                                {
+                                    "x": 2296912, 
+                                    "y": 1279525
+                                }, 
+                                {
+                                    "x": 2892923, 
+                                    "y": 914289
+                                }, 
+                                {
+                                    "x": 2941440, 
+                                    "y": 890362
+                                }, 
+                                {
+                                    "x": 3549670, 
+                                    "y": 638425
+                                }, 
+                                {
+                                    "x": 3600897, 
+                                    "y": 621036
+                                }, 
+                                {
+                                    "x": 4280595, 
+                                    "y": 457855
+                                }, 
+                                {
+                                    "x": 4999366, 
+                                    "y": 401287
+                                }, 
+                                {
+                                    "x": 5000000, 
+                                    "y": 401413
+                                }, 
+                                {
+                                    "x": 165000000, 
+                                    "y": 401413
+                                }, 
+                                {
+                                    "x": 165000634, 
+                                    "y": 401287
+                                }, 
+                                {
+                                    "x": 165719405, 
+                                    "y": 457855
+                                }, 
+                                {
+                                    "x": 166399100, 
+                                    "y": 621035
+                                }, 
+                                {
+                                    "x": 166450335, 
+                                    "y": 638427
+                                }, 
+                                {
+                                    "x": 167058553, 
+                                    "y": 890360
+                                }, 
+                                {
+                                    "x": 167107081, 
+                                    "y": 914291
+                                }, 
+                                {
+                                    "x": 167703088, 
+                                    "y": 1279525
+                                }, 
+                                {
+                                    "x": 168251817, 
+                                    "y": 1748183
+                                }, 
+                                {
+                                    "x": 168720475, 
+                                    "y": 2296912
+                                }, 
+                                {
+                                    "x": 169085706, 
+                                    "y": 2892914
+                                }, 
+                                {
+                                    "x": 169109643, 
+                                    "y": 2941453
+                                }, 
+                                {
+                                    "x": 169361569, 
+                                    "y": 3549657
+                                }, 
+                                {
+                                    "x": 169378966, 
+                                    "y": 3600907
+                                }, 
+                                {
+                                    "x": 169542145, 
+                                    "y": 4280595
+                                }, 
+                                {
+                                    "x": 169589078, 
+                                    "y": 4876937
+                                }, 
+                                {
+                                    "x": 169598584, 
+                                    "y": 5000000
+                                }, 
+                                {
+                                    "x": 169598587, 
+                                    "y": 5127001
+                                }, 
+                                {
+                                    "x": 169598585, 
+                                    "y": 244999999
+                                }, 
+                                {
+                                    "x": 169589078, 
+                                    "y": 245123063
+                                }, 
+                                {
+                                    "x": 169542145, 
+                                    "y": 245719405
+                                }, 
+                                {
+                                    "x": 169378966, 
+                                    "y": 246399093
+                                }, 
+                                {
+                                    "x": 169361569, 
+                                    "y": 246450343
+                                }, 
+                                {
+                                    "x": 169109643, 
+                                    "y": 247058547
+                                }, 
+                                {
+                                    "x": 169085706, 
+                                    "y": 247107086
+                                }, 
+                                {
+                                    "x": 168720475, 
+                                    "y": 247703088
+                                }, 
+                                {
+                                    "x": 168251817, 
+                                    "y": 248251817
+                                }, 
+                                {
+                                    "x": 167703088, 
+                                    "y": 248720475
+                                }, 
+                                {
+                                    "x": 167107081, 
+                                    "y": 249085709
+                                }, 
+                                {
+                                    "x": 167058553, 
+                                    "y": 249109640
+                                }, 
+                                {
+                                    "x": 166450335, 
+                                    "y": 249361573
+                                }, 
+                                {
+                                    "x": 166399100, 
+                                    "y": 249378965
+                                }, 
+                                {
+                                    "x": 165719405, 
+                                    "y": 249542145
+                                }
+                            ]
+                        }, 
+                        "rotation": 0.0, 
+                        "styles": {}, 
+                        "type": "general_polygon"
+                    }
+                ], 
+                "rotation": 0.0, 
+                "styles": {}, 
+                "type": "general_polygon_set"
+            }, 
+            "shape_types": [
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment", 
+                "rounded_segment"
+            ]
+        }
+    ], 
+    "rulers": [], 
+    "shape_poses": [], 
+    "shapes": [], 
+    "sheets": [], 
+    "trace_segments": [], 
+    "version": {
+        "exporter": "Upverter", 
+        "file_version": "0.3.0"
+    }
+}
