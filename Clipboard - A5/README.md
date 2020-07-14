@@ -4,6 +4,10 @@
 
 ...
 
+## TODO
+
+* Add version number to silkscreen of PCB (under the clip, I think)
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
