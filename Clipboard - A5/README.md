@@ -1,8 +1,8 @@
 # Clipboard - A5
 
-<img align="right" src="../_common/PlaceholderImage.png">
-
 It's a clipboard. A5 size. Made out of a printed circuit board. A bit silly but it worked pretty well.
+
+<img width="50%" alt="Photo of assembled clipboard PCB - Top" src="./Photo%20of%20assembled%20clipboard%20PCB%20-%20Top.jpg"><img width="50%" alt="Photo of assembled clipboard PCB - Bottom" src="./Photo%20of%20assembled%20clipboard%20PCB%20-%20Bottom.jpg">
 
 ## TODO
 
