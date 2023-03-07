@@ -2,7 +2,7 @@
 
 <img align="right" src="../_common/PlaceholderImage.png">
 
-...
+It's a clipboard. A5 size. Made out of a printed circuit board. A bit silly but it worked pretty well.
 
 ## TODO
 
